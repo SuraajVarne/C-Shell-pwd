@@ -17,17 +17,14 @@ Optional Functionality: Explore extra features like prompt customization and pip
 Compilation:
 
 bash
-Copy code
 gcc shell.c myHistory.c alias.c -o shell
 Run Interactive Mode:
 
 bash
-Copy code
 ./shell
 Run Batch Mode:
 
 bash
-Copy code
 ./shell batch_test.txt
 Optional Functionality
 For teams completing all requirements, consider exploring optional functionalities such as prompt customization and pipelining.
