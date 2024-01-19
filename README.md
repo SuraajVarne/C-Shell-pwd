@@ -14,7 +14,7 @@ Optional Functionality: Explore extra features like prompt customization and pip
 ## Getting Started
 
 
-Compilation:
+## Compilation:
 
 bash
 gcc shell.c myHistory.c alias.c -o shell
